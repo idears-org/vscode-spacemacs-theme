@@ -1,0 +1,21 @@
+{
+  "name": "vscode-spacemacs-theme",
+  "displayName": "Spacemacs Theme",
+  "description": "A spacemacs like theme optimized for markup languages.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "spacemacs-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/spacemacs-dark-color-theme.json"
+      }
+    ]
+  }
+}
