@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "spacemacs-dark",
+        "label": "Spacemacs Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/spacemacs-dark-color-theme.json"
+      },
+      {
+        "label": "Spacemacs Light",
+        "uiTheme": "vs",
+        "path": "./themes/spacemacs-light-color-theme.json"
       }
     ]
   }
