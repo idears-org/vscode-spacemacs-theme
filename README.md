@@ -15,7 +15,7 @@ The primary goal of this theme is to build upon the excellent Spacemacs color fo
 
 ## Screenshots
 
-![Spacemacs Dark Theme Screenshot](https://raw.githubusercontent.com/idears-org/vscode-spacemacs-theme/main/assets/screenshot.png)
+![Spacemacs Dark Theme Screenshot](https://raw.githubusercontent.com/idears-org/vscode-spacemacs-theme/master/assets/screenshot.png)
 
 ## Acknowledgements
 
