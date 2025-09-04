@@ -1,0 +1,28 @@
+
+/* This is a comment */
+
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+}
+
+.main-text {
+    color: #333;
+    font-size: 16px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+    #container {
+        width: 100%;
+    }
+}

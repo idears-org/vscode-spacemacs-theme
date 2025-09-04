@@ -1,13 +1,30 @@
 {
   "name": "vscode-spacemacs-theme",
-  "displayName": "Spacemacs Theme",
+  "displayName": "Spacemacs Theme +",
   "description": "A spacemacs like theme optimized for markup languages.",
-  "version": "0.0.1",
+  "version": "1.0.1",
+  "publisher": "idears-org",
+  "repository": "https://github.com/idears-org/vscode-spacemacs-theme",
+  "icon": "assets/spacemacs.png",
   "engines": {
     "vscode": "^1.103.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "emacs",
+    "spacemacs",
+    "Org Down",
+    "org down",
+    "OrgDown",
+    "orgdown",
+    "Org Mode",
+    "org mode",
+    "OrgMode",
+    "orgmode",
+    "Org Mode (Emacs)",
+    "org mode (Emacs)"
   ],
   "contributes": {
     "themes": [

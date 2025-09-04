@@ -1,0 +1,64 @@
+#+TITLE: Inspection for S01-top-level-structure.org (Auto-Generated)
+
+#+FIXTURE: S01-top-level-structure.org
+#+DESCRIPTION: Top-level Structure Scope Tests
+
+# DO NOT EDIT. Run 'pnpm build:inspections' to regenerate.
+# Content start after this line
+# --------------------------------------------------------
+
+#+TITLE: Top-level Structure Scope Tests
+
+* header level 1
+** header level 2
+*** header level 3
+**** header level 4
+***** header level 5
+****** header level 6
+******* header level 7
+******** header level 8
+This is the description of the test file.
+
+It can span multiple lines.
+
+It can also include *bold*, /italic/, _underline_ and +strikethrough+ text.
+
+It can also include links like [[https://example.com][Example Link]].
+
+It can also include inline code like ~inline code~ and =verbatim=.
+
+It can also include code blocks:
+
+#+BEGIN_SRC python
+def hello_world():
+    print("Hello, World!")
+#+END_SRC
+
+It can also include lists:
+- Item 1
+- Item 2
+    - Subitem 2.1
+    - Subitem 2.2
+
+It can also include numbered lists:
+1. First item
+2. Second item
+     1. Subitem 2.1
+     2. Subitem 2.2
+
+*** LV1-A: Active Section
+Content of LV1-A.
+**** LV2-A: Active Child
+Content of LV2-A.
+*** COMMENT LV1-B: Inactive Section via Keyword
+Content of LV1-B. This should be inactive.
+**** LV2-B: Child of Inactive
+This headline and its content should inherit the inactive state.
+*** LV1-C: Archived Section via Tag :ARCHIVE:
+Content of LV1-C. This should be inactive.
+**** LV2-C: Child of Archived
+This should also be inactive.
+********* LV7-A: Deep child of Archived
+This should also be inactive.
+*** LV1-D: Final Active Section
+Back to active state.

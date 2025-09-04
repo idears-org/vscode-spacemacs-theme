@@ -1,0 +1,11 @@
+
+{
+  "string": "value",
+  "number": 123,
+  "boolean": true,
+  "nothing": null,
+  "array": [1, 2, 3],
+  "object": {
+    "nested_key": "nested_value"
+  }
+}
