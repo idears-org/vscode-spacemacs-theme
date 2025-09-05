@@ -19,8 +19,8 @@
     "editorBracketMatch.background": "#5d4d7a",
     "editorBracketMatch.border": "#686868",
     "editorCursor.foreground": "#e3dedd",
-    "editorGroupHeader.noTabsBackground": "#292b2e",
-    "editorGroupHeader.tabsBackground": "#292b2e",
+    "editorGroupHeader.noTabsBackground": "#212026",
+    "editorGroupHeader.tabsBackground": "#212026",
     "editorLineNumber.foreground": "#5d4d7a",
     "list.activeSelectionBackground": "#100a14",
     "list.activeSelectionForeground": "#b2b2b2",
@@ -61,6 +61,7 @@
     "terminal.ansiRed": "#ba2f59",
     "terminal.ansiWhite": "#b2b2b2",
     "terminal.ansiYellow": "#b1951d",
+    "panel.background": "#212026",
     "titleBar.activeBackground": "#212026",
     "widget.shadow": "#5d4d7a"
   },
