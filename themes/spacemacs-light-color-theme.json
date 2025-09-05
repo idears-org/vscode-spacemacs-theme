@@ -8,7 +8,7 @@
     "activityBarBadge.background": "#e7e5eb",
     "activityBarBadge.foreground": "#655370",
     "contrastBorder": "#fbf8ef",
-	"focusBorder": "#b3b9be",
+    "focusBorder": "#b3b9be",
     "dropdown.background": "#efeae9",
     "dropdown.border": "#b3b9be",
     "dropdown.foreground": "#655370",
@@ -65,58 +65,40 @@
     "widget.shadow": "#b3b9be"
   },
   "tokenColors": [
-	{
-      "scope": [
-		"markup.heading.1.org",
-		"heading.1"
-	  ],
+    {
+      "scope": ["markup.heading.1.org", "heading.1"],
       "settings": {
         "foreground": "#3a81c3",
         "fontStyle": "bold"
       }
     },
     {
-      "scope": [
-		"markup.heading.2.org",
-		"heading.2"
-	  ],
+      "scope": ["markup.heading.2.org", "heading.2"],
       "settings": {
         "foreground": "#2d9574",
         "fontStyle": "bold"
       }
     },
     {
-      "scope": [
-		"markup.heading.3.org",
-		"heading.3"
-	  ],
+      "scope": ["markup.heading.3.org", "heading.3"],
       "settings": {
         "foreground": "#67b11d"
       }
     },
     {
-      "scope": [
-		"markup.heading.4.org",
-		"heading.4"
-	  ],
+      "scope": ["markup.heading.4.org", "heading.4"],
       "settings": {
         "foreground": "#b1951d"
       }
     },
     {
-      "scope": [
-		"markup.heading.5.org",
-		"heading.5"
-	  ],
+      "scope": ["markup.heading.5.org", "heading.5"],
       "settings": {
         "foreground": "#3a81c3"
       }
     },
     {
-      "scope": [
-		"markup.heading.6.org",
-		"heading.6"
-	  ],
+      "scope": ["markup.heading.6.org", "heading.6"],
       "settings": {
         "foreground": "#2d9574"
       }
